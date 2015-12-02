@@ -1,7 +1,7 @@
 name: Big Bold CMO
 favicon: null
-layout_spectrum: 0.6105522676371038
-typography_spectrum: 0.8007926421705633
+layout_spectrum: 0.53316
+typography_spectrum: 0.82466
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#5e7888'
+    - '#23343d'
+    - '#e2f0f5'
+    - '#8fcae0'
   brandStrength: 0.846008937805891
   lightness: 0.3329590561334044
   saturation: 0.1723492406308651
