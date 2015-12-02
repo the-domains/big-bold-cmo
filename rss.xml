@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Big Bold CMO]]></title>
+        <description><![CDATA[Big Bold CMO]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Dec 2015 11:58:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Interviews with Big Bold CMOs]]></title>
+            <description><![CDATA[<article><h1>Interviews with Big Bold CMOs</h1><p>http://www.cmo.com/articles/2015/10/16/cmocom-catches-up-with-western-unions-cmo-on-a-whirlwind-year-.html</p></article>]]></description>
+            <link>undefinedinterviews-with-big-bold-cmos/index.html</link>
+            <guid isPermaLink="false">7bfc0a06-9975-40a8-a29e-25c40e866914</guid>
+            <pubDate>Wed, 02 Dec 2015 11:58:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
