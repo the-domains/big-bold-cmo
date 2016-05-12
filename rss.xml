@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Big Bold CMO]]></title>
+        <description><![CDATA[Big Bold CMO]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 May 2016 15:16:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>You may not be familiar with the Kutol company (pronounce cut-all) but you certainly know an off-spring product of theirs. </p>]]></description>
+            <link>undefinedyou-may-not-be-familiar-with-the-kutol-company-pronounce-cu/index.html</link>
+            <guid isPermaLink="false">555ff8ea-9646-4e51-9613-b70a1eb1251f</guid>
+            <pubDate>Thu, 12 May 2016 15:15:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
